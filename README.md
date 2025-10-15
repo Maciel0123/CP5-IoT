@@ -124,6 +124,8 @@ Em contextos de IoT, ambos os modelos podem ser combinados para criar sistemas h
 
 📺 Assista à demonstração no YouTube: 
 
+https://youtu.be/WRPY1VLblJE
+
 ## 👤 Autores
 - Henrique Maciel — RM556480
 - Gabriela Moguinho Gonçalves — RM556143
